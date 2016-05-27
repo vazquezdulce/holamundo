@@ -1,5 +1,6 @@
 <?php
 
-echo "Hola Mundo";
+echo "Hola Mundo"; <br>
+echo "desde OpenShift";
 
 ?>
